@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://massachusettsbankruptcy.org/sitemap.xml
